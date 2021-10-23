@@ -31,7 +31,8 @@ $ SELECT * FROM td_skills WHERE type="Other";
 > AWS, Heroku, Docker, Git, SVN, Window, Linux, Mac, JIRA, Redmine, Confluence, Google Drive, One Drive, Magento, E-Commerce, Requirement Gathering, Documentation, Presentation, Communication, Business Analysis, Waterfall model, Stakeholder Management, Teamwork.
 ```
 # Get in touch
-- My garden: [http://tommydo.com](http://tommydo.com)
+- My garden: [http://tommydo.ca](http://tommydo.ca)
+- Demo skill app: [http://starwars.tommydo.ca](http://starwars.tommydo.ca)
 - Linkedin: [https://www.linkedin.com/in/dhhuy](https://www.linkedin.com/in/dhhuy/)
 - Facebook: [https://facebook.com/dhhuy7490](https://facebook.com/dhhuy7490)
 - Instagram: [https://www.instagram.com/tommydo](https://www.instagram.com/tommydo)
